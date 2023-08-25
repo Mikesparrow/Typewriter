@@ -1,0 +1,16 @@
+.body,html{
+    background:linear-gradient(rgb(193, 193, 208) 0%, rgba(203, 169, 169, 0.531) 70%);
+}
+
+
+.hello{
+    color:red;
+    margin: 0 auto;
+    text-align: center;
+    font-size: larger;
+    display: grid;
+}
+
+.title{
+    color: green;
+}
